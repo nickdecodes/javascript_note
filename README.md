@@ -1,2 +1,2 @@
-# javascript_note
+# [javascript_note](http://c.biancheng.net/js/)
 javascript_note
